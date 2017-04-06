@@ -1,3 +1,3 @@
-# To-Do-List-App
+# To-Do List
 
 #### A simple to-do list application.
