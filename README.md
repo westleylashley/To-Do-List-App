@@ -4,4 +4,4 @@
 
 Issues/Bugs
 -----------------
-+ Data does not save
++ Data does not save to user defaults
