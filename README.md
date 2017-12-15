@@ -2,6 +2,6 @@
 
 #### A simple to-do list application.
 
-Issues/Bugs
+<!--Issues/Bugs
 -----------------
-+ Data does not save to user defaults
++ Data does not save to user defaults-->
